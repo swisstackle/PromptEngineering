@@ -1,0 +1,1 @@
+These are rules for Khanmingo (Khan Academy AI) to work through Lean4 proofs. Lean4 is mathematics proof assistant.
