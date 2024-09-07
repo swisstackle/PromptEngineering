@@ -1,1 +1,1 @@
-These are rules I attach to every Cursor AI prompt so that Cursor understands my prompt correctly, asks me questions and gets me better results:
+These are rules I attach to every Cursor AI prompt so that Cursor understands my prompt correctly, asks me questions and gets me better results.
